@@ -1,0 +1,2 @@
+# Prediction-and-Clustering-of-the-US-Presidential-Election-Data-
+Developed 2 algorithms which can predict whether a county will vote for Donald Trump or Hillary Clinton based on given data sets, and developed 2 clustering algorithms which can group different counties based on 9 different parameters to analyze the presidential election data more efficiently by considering each parameter individually
